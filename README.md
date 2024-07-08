@@ -8,3 +8,7 @@ To add this to GDB you need to run:
 To run commands, you can use it like this:
 
 `py-inject print("hello")`
+
+---
+
+Preview: https://www.youtube.com/watch?v=CGA_ymPL7RY
